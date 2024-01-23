@@ -17,3 +17,4 @@ The page can be viewed at: http://localhost:3100
 * You will receive an indication of what to do
 * If there is no indication for the selected parameter, choose another activity or number of people
 
+![image](https://github.com/GDeusvid/UnBorederApp/assets/132523391/c17cea15-4421-4fea-8a11-75b6904490a0)
